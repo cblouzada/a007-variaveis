@@ -1,7 +1,7 @@
 const name = "Carlos Bergson"
 const idade = 26
 
-console.log (typeof name, typeof idade)
+console.log (typeof nome, typeof idade)
 
 const meuNome = prompt ("Qual é o seu nome?")
 const minhaIdade = prompt ("Quantos anos você tem")
